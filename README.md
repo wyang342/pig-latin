@@ -24,7 +24,7 @@ translate("apple university") # => appleay universityay
 
 translate("School") # => Oolschay
 
-translate("I go to apple university") # => Iway ogay otay appleay universityay.
+translate("I go to apple university") # => Iay ogay otay appleay universityay.
 
 translate("Hi, I'm Zach") # => Ihay, I'may Achzay
 
